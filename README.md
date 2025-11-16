@@ -4,9 +4,7 @@ This dashboard visualizes energy efficiency data for England and Wales from  200
 
 ### Dataset Source
 
-The 2023 edition of this dataset was used for this dashboard:
-
-[ONS Median Energy Efficiency Score, England and Wales (2023 edition)](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/medianenergyefficiencyscoreenglandandwales)
+The 2023 edition of this dataset was used for this dashboard: [ONS Median Energy Efficiency Score, England and Wales (2023 edition)](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/medianenergyefficiencyscoreenglandandwales)
 
 
 ### screenshots
